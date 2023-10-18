@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DLC066FNMBw/d69o7ZG+1+lTiIgjyD9otOP/+JcwVtr1QMoYG0O02PCiagRhbA/X9ocEa5CMxVGtj9r1b5Yzxg==",
+  "success": true,
+  "projectFilePath": "C:\\CMD\\ClassicScroller\\ClassicScroller\\ClassicScroller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FMFCL\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\FMFCL\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
